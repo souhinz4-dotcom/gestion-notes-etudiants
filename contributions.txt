@@ -1,0 +1,11 @@
+== Fichier de contributions — Projet Gestion de notes ==
+
+Zainabou :
+- Création de la classe Etudiant.java
+- Création du fichier etudiants.csv
+- Rédaction du README.md
+
+Mamadou :
+- Création de la classe LecteurCSV.java
+- Création de la classe Outils.java
+- Création de la classe Main.java
