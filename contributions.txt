@@ -7,5 +7,5 @@ Zainabou :
 
 Mamadou :
 - Création de la classe LecteurCSV.java
-- Création de la classe Outils.java
+- Création de la classe Gestion.java
 - Création de la classe Main.java
